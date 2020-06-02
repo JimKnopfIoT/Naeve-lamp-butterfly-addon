@@ -11,11 +11,11 @@ Requirements:
 * Filament of your choice
 
 #### View
-![Example](Orig-Näve-Flowers.jpg)
-![Example](20200601-DSC05275.jpg)
-![Example](20200601-DSC05282.jpg)
-![Example](IMG_20200516_101915.jpg)
-![Example](IMG_20200516_101933.jpg)
-![Example](IMG_20200516_101943.jpg)
-![Example](IMG_20200516_101949.jpg)
-![Example](IMG_20200516_102004.jpg)
+<img src="Orig-Näve-Flowers.jpg" width="500" align="center">
+<img src="20200601-DSC05275.jpg" width="500" align="center">
+<img src="20200601-DSC05282.jpg" width="500" align="center">
+<img src="IMG_20200516_101915.jpg" width="500" align="center">
+<img src="IMG_20200516_101933.jpg" width="500" align="center">
+<img src="IMG_20200516_101943.jpg" width="500" align="center">
+<img src="IMG_20200516_101949.jpg" width="500" align="center">
+<img src="IMG_20200516_102004.jpg" width="500" align="center">
